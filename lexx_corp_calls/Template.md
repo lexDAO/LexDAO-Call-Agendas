@@ -21,7 +21,6 @@ Video/Screenshare: [https://discord.gg/PWAwCuz](https://discord.gg/PWAwCuz)
     - [ ]  Pending LexDAO votes
 
 - Second 30 min (and beyond - )
-    - [ ]  Github 2FA Reminder
-    - [ ]  Corp DAO Setup?
+    - [ ]  
         
 ### Notes:
